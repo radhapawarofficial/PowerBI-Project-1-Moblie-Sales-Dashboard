@@ -13,6 +13,7 @@ This dashboard provides a comprehensive view of mobile sales data for top smartp
 * **Dashboard Screenshot:** `Project 1 - Moblie Sales Dashboard.png`<img width="889" height="500" alt="Project 1 - Moblie Sales Dashboard" src="https://github.com/user-attachments/assets/e6bae030-bf24-4c3e-82ab-a4b1593f762e" />
 
 * **Interactive Demo Video:** `Project 1 - Moblie Sales Dashboards.mp4`
+
 ---
 
 ## 🔑 Key KPIs
